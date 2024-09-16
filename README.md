@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Khan Jadoon</h1>
 <h3 align="center">Frontend developer who aims to write quality code</h3>
 <br />
 
