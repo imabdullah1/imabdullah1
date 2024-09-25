@@ -38,7 +38,7 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333' alt="tailwind" width="auto" height="40">&nbsp;&nbsp;&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024' alt="bootstrap" width="auto" height="40">&nbsp;&nbsp;&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Angular-icon.svg/1280px-Angular-icon.svg.png" alt="Angular" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Angular-icon.svg/1280px-angular-icon.svg.png" alt="angular" width="auto" height="40"/>
   <br>
   <img width="auto" height="40" alt="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png?20180806170715" alt="github" width="auto" height="40"/>
